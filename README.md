@@ -1,7 +1,7 @@
 username: perrys21  
 name: perry sinai פרי סיני  
 id: 322826975  
-url: https://web-development-environments-2022.github.io/assignment1-perrys21/
+url: https://web-development-environments-2022.github.io/322826975/  
 
 ------------to know------------  
 * My website is built for my grandpa, John Cena.  
