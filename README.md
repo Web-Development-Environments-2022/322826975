@@ -1,4 +1,16 @@
 username: perrys21  
-name: perry sinai  
+name: perry sinai פרי סיני  
 id: 322826975  
 url: https://web-development-environments-2022.github.io/assignment1-perrys21/
+
+------------to know------------  
+* My website is built for my grandpa, John Cena.  
+* You can read about him and his life.  
+* You can see a few of his photos throughout his life.  
+* You can hear his favorite song.  
+* You can add a like to his favorite facebook page (WWE ofcourse).  
+* A bit of Q&A.  
+* You can send him an email. If you'd like, you can add emojies simply by tapping on the body textbox  
+  (The emoji window is toggled on and off each time you press on the body's textbox).  
+
+Enjoy!!
